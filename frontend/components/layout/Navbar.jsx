@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const Nav = styled.nav`
 	display: flex;
-	background-color: purple;
+	background-color: orangered;
 	justify-content: space-around;
 `;
 
